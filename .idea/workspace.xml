@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bd5858c-fc33-4a12-9228-318fb0488e05" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eUXrfBNmgYL5MC7uFHtYFyjyHC" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Programming\React Training\react-training\src\Pages" />
+      <recent name="G:\Programming\React Training\react-training\src\Components\Card" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bd5858c-fc33-4a12-9228-318fb0488e05" name="Default Changelist" comment="" />
+      <created>1594377345733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594377345733</updated>
+      <workItem from="1594377358863" duration="2707000" />
+      <workItem from="1594537742226" duration="3185000" />
+      <workItem from="1595406986075" duration="475000" />
+      <workItem from="1595658035842" duration="5902000" />
+      <workItem from="1595775921485" duration="4701000" />
+      <workItem from="1598366730757" duration="6176000" />
+      <workItem from="1598441840496" duration="11815000" />
+      <workItem from="1598515651064" duration="3854000" />
+      <workItem from="1598529730436" duration="3374000" />
+      <workItem from="1598534488534" duration="127000" />
+      <workItem from="1598557957418" duration="1258000" />
+      <workItem from="1598628454781" duration="503000" />
+      <workItem from="1598692771038" duration="3261000" />
+      <workItem from="1598715646780" duration="4706000" />
+      <workItem from="1598787967666" duration="2778000" />
+      <workItem from="1598791214187" duration="80000" />
+      <workItem from="1598791332968" duration="190000" />
+      <workItem from="1598797426252" duration="4066000" />
+      <workItem from="1599313615376" duration="3854000" />
+      <workItem from="1599378483751" duration="1534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
